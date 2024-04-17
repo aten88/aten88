@@ -16,7 +16,6 @@
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=black)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![Jinja2](https://img.shields.io/badge/Jinja2-blue.svg?&style=flat&logo=Jinja&logoColor=red)&nbsp;
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-black.svg?&style=flat&logo=BOOTSTRAP&logoColor=red)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-gray.svg?&style=flat&logo=REACT&logoColor=high)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-white.svg?&style=flat&logo=Swagger&logoColor=darkgreen)&nbsp;
 ![Scrapy](https://img.shields.io/badge/Scrapy-blue.svg?&style=flat&logo=Scrapy&logoColor=green)&nbsp;
