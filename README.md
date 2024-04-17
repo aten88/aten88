@@ -12,6 +12,7 @@
 ![FastAPI](https://img.shields.io/badge/FASTAPI-red.svg?&style=flat&logo=fastapi&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-white.svg?&style=flat&logo=GitHub&logoColor=black)&nbsp;
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-white.svg?&style=flat&logo=GitHubActions&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-black.svg?&style=flat&logo=git&logoColor=red)&nbsp;
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red.svg?&style=flat&logo=SQLAlchemy&logoColor=black)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=black)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
