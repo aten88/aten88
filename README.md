@@ -1,4 +1,4 @@
-![Header](https://github.com/aten88/aten88/blob/main/assets/mario_develop.gif)
+![Header](https://github.com/aten88/aten88/blob/main/assets/mario_developer.gif)
 
 About me
 
