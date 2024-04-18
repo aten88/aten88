@@ -23,7 +23,7 @@
 ![PyCharm](https://img.shields.io/badge/PYCHARM-gray.svg?&style=flat&logo=pycharm&logoColor=lightgreen)&nbsp;
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 
-## Follow me
+## Follow me:
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black.svg?&style=flat&logo=TELEGRAM&logoColor=blue)](https://t.me/aten88)&nbsp;
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-black.svg?&style=flat&logo=INSTAGRAM&logoColor=darkred)](https://www.instagram.com/10alexten10?igsh=MWJ1bG9tbjFvcXZhZg==)
 ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-black.svg?&style=flat&logo=LINKEDIN&logoColor=5D73E1)&nbsp;
