@@ -26,9 +26,9 @@
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 
 ## Follow me
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black.svg?&style=flat&logo=TELEGRAM&logoColor=blue)&nbsp;](https://t.me/aten88)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-black.svg?&style=flat&logo=INSTAGRAM&logoColor=darkred)&nbsp;](https://www.instagram.com/10alexten10?igsh=MWJ1bG9tbjFvcXZhZg==)
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-black.svg?&style=flat&logo=LINKEDIN&logoColor=5D73E1)&nbsp;
-[![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-black.svg?&style=flat&logo=Vk&logoColor=3176F9)&nbsp;](https://vk.com/id183428416)
-[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-black.svg?&style=flat&logo=FACEBOOK&logoColor=2885D1)&nbsp;](https://www.facebook.com/profile.php?id=100047649590592&mibextid=LQQJ4d)
-[![STACKOVERFLOW](https://img.shields.io/badge/STACK_OVERFLOW-black.svg?&style=flat&logo=STACKOVERFLOW&logoColor=E68837)&nbsp;](https://ru.stackoverflow.com/users/590484/%d0%90%d0%bb%d0%b5%d0%ba%d1%81-%d0%a2%d0%b5%d0%bd)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black.svg?&style=flat&logo=TELEGRAM&logoColor=blue)](https://t.me/aten88)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-black.svg?&style=flat&logo=INSTAGRAM&logoColor=darkred)](https://www.instagram.com/10alexten10?igsh=MWJ1bG9tbjFvcXZhZg==)
+![LINKEDIN](https://img.shields.io/badge/LINKEDIN-black.svg?&style=flat&logo=LINKEDIN&logoColor=5D73E1)
+[![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-black.svg?&style=flat&logo=Vk&logoColor=3176F9)](https://vk.com/id183428416)
+[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-black.svg?&style=flat&logo=FACEBOOK&logoColor=2885D1)](https://www.facebook.com/profile.php?id=100047649590592&mibextid=LQQJ4d)
+[![STACKOVERFLOW](https://img.shields.io/badge/STACK_OVERFLOW-black.svg?&style=flat&logo=STACKOVERFLOW&logoColor=E68837)](https://ru.stackoverflow.com/users/590484/%d0%90%d0%bb%d0%b5%d0%ba%d1%81-%d0%a2%d0%b5%d0%bd)
